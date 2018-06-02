@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IoExtended2018</string>
+    <string name="sign_in">Ingresar</string>
+    <string name="sign_out">Salir</string>
+    <string name="sending">Enviando...</string>
+
+    <string name="message_permission">La aplicación necesita un permiso especial para poder acceder a la cámara</string>
+    <string name="message_play_services">Necesita una nueva version de Google Play Services</string>
+</resources>
